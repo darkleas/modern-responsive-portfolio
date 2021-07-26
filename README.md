@@ -1,3 +1,17 @@
+###### An open source project focused at making creating a personal portfolio for academics, developers, and analysts simple, quick, and painless. I make sure you have a fully functional website to display your work so you can focus on your study and new projects.
+#
+# Lets see what we have in the website 🙈 :
+
+### Home Page:
+![alt text](https://i.ibb.co/j8kd8r2/anasayfa.png)
+### About Me Page:
+![alt text](https://i.ibb.co/ggdBRKb/About.png)
+### Projects Page:
+![alt text](https://i.ibb.co/FhvjXXx/projects.png)
+### Contact Page:
+![alt text](https://i.ibb.co/9q8n6mH/contact.png)
+
+
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

@@ -1,6 +1,7 @@
-###### An open source project focused at making creating a personal portfolio for academics, developers, and analysts simple, quick, and painless. I make sure you have a fully functional website to display your work so you can focus on your study and new projects.
-#
-# Lets see what we have in the website 🙈 :
+#### An open source project focused at making creating a personal portfolio for academics, developers, and analysts simple, quick, and painless. I make sure you have a fully functional website to display your work so you can focus on your study and new projects.
+
+# Lets see what we have in the website:
+![](img.gif)
 
 ### Home Page:
 ![alt text](https://i.ibb.co/j8kd8r2/anasayfa.png)
